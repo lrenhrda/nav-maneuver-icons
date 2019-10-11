@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>merge_left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="merge_left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="secondary" fill="#000000" fill-rule="nonzero" opacity="0.3" points="16 41 16 13 22 13 22 41"></polygon>
+        <path d="M18.9481265,5 L30.6555078,18.6593084 C30.8882948,18.930907 30.9582801,19.3061629 30.8390439,19.643414 C30.6680986,20.1269203 30.163246,20.3967385 29.6750955,20.2854204 L29.5629015,20.2528897 L22,17.578 L22,21 C22,22.1045695 22.8954305,23 24,23 L42,23 L42,29 L24,29 C19.581722,29 16,25.418278 16,21 L16,17.541 L8.33335147,20.2528897 C8.03825678,20.3572214 7.71406468,20.3166804 7.45567764,20.1489658 L7.34924591,20.0693537 C6.96216754,19.7375891 6.89100084,19.1741574 7.16502946,18.7596204 L7.24074513,18.6593084 L18.9481265,5 Z" id="primary" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

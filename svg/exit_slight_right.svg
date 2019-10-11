@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>exit_slight_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="exit_slight_right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="secondary" fill="#000000" fill-rule="nonzero" opacity="0.3" points="20 41 20 13 14 13 14 41"></polygon>
+        <path d="M37.7578498,7.24214842 L36.3776289,25.1791068 C36.3352567,25.7297637 35.8545117,26.1418099 35.3038547,26.0994377 C34.9472003,26.0719937 34.6323672,25.8561348 34.4782075,25.5333495 L30.997,18.2441484 L20.5857864,28.6568542 C20.2523884,28.9902523 20.0488544,29.4292385 20.0077406,29.895215 L20,30.0710678 L20,41 L14,41 L14,30.0710678 C14,28.0503707 14.7644941,26.1084951 16.1333108,24.6321288 L16.3431458,24.4142136 L26.755,14.0021484 L19.4666487,10.5217908 C18.9682841,10.2837757 18.7572291,9.68682204 18.9952442,9.18845744 C19.1494039,8.86567215 19.464237,8.6498133 19.8208915,8.6223693 L37.7578498,7.24214842 Z" id="primary" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>flag</title>
+    <desc>Created with Sketch.</desc>
+    <g id="flag" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12,6 C13.0543618,6 13.9181651,6.81587779 13.9945143,7.85073766 L14,8 L14,42 L10,42 L10,8 C10,6.8954305 10.8954305,6 12,6 Z M27,10 L27.4074074,9.85733882 C30.8024691,8.71422039 34.1975309,8.71422039 37.5925926,9.85733882 L38,10 L36,17.5 L38,26 C34.4691358,24.7160494 30.9382716,24.6684957 27.4074074,25.8573388 L26.5925926,26.1426612 C23.1975309,27.2857796 19.8024691,27.2857796 16.4074074,26.1426612 L16,26 L16,10 C19.5308642,11.2839506 23.0617284,11.3315043 26.5925926,10.1426612 L27.4074074,9.85733882 L27,10 Z" id="primary" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

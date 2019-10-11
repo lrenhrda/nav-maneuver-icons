@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>merge_slight_right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="merge_slight_right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="secondary" fill="#000000" fill-rule="nonzero" opacity="0.3" points="27 41 27 13 21 13 21 41"></polygon>
+        <path d="M24.0518735,5 L35.7592549,18.6593084 C36.1186664,19.0786433 36.070089,19.7099421 35.6507541,20.0693537 C35.3791555,20.3021406 35.0038996,20.372126 34.6666485,20.2528897 L26.9996797,17.541 L27,23.9289322 C27,25.9496293 26.2355059,27.8915049 24.8666892,29.3678712 L24.6568542,29.5857864 L11.1213203,43.1213203 L6.87867966,38.8786797 L20.4142136,25.3431458 C20.7476116,25.0097477 20.9511456,24.5707615 20.9922594,24.104785 L21,23.9289322 L20.9996797,17.578 L13.4370985,20.2528897 C12.9163995,20.4369846 12.3450511,20.164113 12.1609561,19.643414 C12.0417199,19.3061629 12.1117052,18.930907 12.3444922,18.6593084 L24.0518735,5 Z" id="primary" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
